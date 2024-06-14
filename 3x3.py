@@ -1,13 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose: https://metanit.com/python/tkinter/2.1.php
-#
-# Author:      USER2017
-#
-# Created:     09.06.2024
-# Copyright:   (c) USER2017 2024
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
 
 def main():
     pass
